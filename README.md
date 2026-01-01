@@ -9,6 +9,15 @@ This project presents an interactive HR analytics dashboard built using Tableau 
 As an HR manager, I want a dashboard that provides both summary-level insights and detailed employee information so that I can analyze workforce patterns, monitor HR performance, and make informed decisions related to hiring, retention, and compensation.
 
 ---
+## 🖼️ Dashboard Previews
+
+<p align="center">
+  <img src="images/HR%20_%20Summary.png" width="45%" />
+  <img src="images/HR%20_%20Details.png" width="45%" />
+</p>
+
+---
+
 
 ## 📊 Dashboard Views
 
